@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Sowd",
+    "id": 0,
+    "typename": "Weapon",
+    "money": 100,
+    "path": "Sowd",
+    "isequip": false,
+    "description" :"Sowd"
+  },
+  {
+    "name": "Gun",
+    "id": 1,
+    "typename": "Weapon",
+    "money": 100,
+    "path": "Gun",
+    "isequip": false,
+    "description" :"Gun"
+  },
+  {
+    "name": "HpUp1",
+    "id": 2,
+    "typename": "HpUp",
+    "money": 0,
+    "path": "HpUp1",
+    "isequip": false,
+    "description" :"体力が回復する"
+  },
+  {
+    "name": "MpUp1",
+    "id": 3,
+    "typename": "MpUp",
+    "money": 0,
+    "path": "MpUp1",
+    "isequip": false,
+    "description" :"MPが回復する"
+  },
+  {
+    "name": "Book1",
+    "id": 4,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book1",
+    "isequip": false,
+    "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Book2",
+    "id": 5,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book2",
+    "isequip": false,
+    "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Book3",
+    "id": 6,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book3",
+    "isequip": false,
+   "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Book4",
+    "id": 7,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book4",
+    "isequip": false,
+    "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Book5",
+    "id": 8,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book5",
+    "isequip": false,
+    "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Book6",
+    "id": 9,
+    "typename": "Book",
+    "money": 0,
+    "path": "Book6",
+    "isequip": false,
+    "description" :"誰かが書いた日記"
+  },
+  {
+    "name": "Blood Crystal",
+    "id": 10,
+    "typename": "Extra",
+    "money": 0,
+    "path": "Blood_Crystal",
+    "isequip": false,
+    "description" :"謎の液体"
+  }
+]
